@@ -1,5 +1,5 @@
 flask
-pyttsx3
 gunicorn
 requests
 beautifulsoup4
+google-generativeai
